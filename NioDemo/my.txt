@@ -1,0 +1,4 @@
+svnExecutable= 1110
+deployDir = E:\code\popo_android
+mavenUrl=D:\as\gradle\m2repository
+androidPlugin=com.android.tools.build:gradle:1.2.3
